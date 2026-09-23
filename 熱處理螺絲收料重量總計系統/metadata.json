@@ -1,0 +1,6 @@
+{
+  "name": "連續爐收料重量總計系統",
+  "description": "連續爐收料過磅重量累計與驗收系統，支援QR Code掃描讀取訂單資訊（入貨日期、客戶名稱、螺絲規格、入貨重量）、磅秤讀數累加總計、允收公差即時判定與入庫磅單報表。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
